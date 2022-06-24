@@ -18,7 +18,7 @@
     "@metahub/eslint-config": "^1.6.0",
     "ava": "^0.22.0",
     "babel-eslint": "^7.2.3",
-    "codecov": "^2.3.0",
+    "codecov": "^3.8.3",
     "commitizen": "^2.9.6",
     "emoji-regex": "^6.5.1",
     "eslint": "^4.4.1",
